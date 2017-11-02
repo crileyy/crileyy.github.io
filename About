@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Colin Riley</title>
+		<!-- linking to the main style sheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/About">About</a></li>
+        		<li><a href="/img/Colin_Riley_Resume_10_22_17.pdf">Resume</a></li>
+        		<li><a href="https://www.linkedin.com/in/colin-riley">LinkedIn</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Colin Riley</h1>
+		<div class="col-sm-4">
+			<img class="personal pic" alt="Colin Riley" src="/IMG_9809.JPG">
+				<p>Different info</p>
+				<p>This website is a work in progress!<p>
+		</div><!-- /.image -->
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:riley.colin5@husky.neu.edu">email</a></li>
+        		<li><a href="https://github.com/crileyy">github.com/crileyy</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
