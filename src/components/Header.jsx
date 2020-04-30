@@ -13,7 +13,7 @@ export const Header = () => {
       <header className="App-header">
         <img className="headshot" src={headshot} alt="headshot" />
         <h1 className="name">Colin Riley</h1>
-        <h4 className="description">Software Developer, Student, and Musician.</h4>
+        <h4 className="description">Software Developer, Student, and Musician</h4>
         <div className="links">
           <div className="link-header 1">
             <span className="link-header-text 1">GitHub</span>
@@ -29,7 +29,7 @@ export const Header = () => {
           </div>
           <div className="link-header 3">
             <span className="link-header-text 3">Email</span>
-            <a href="mailto:riley.colin5@husky.neu.edu">
+            <a href="mailto:criley0007@gmail.com">
               <img src={Email} alt="email" className="email-logo" />
             </a>
           </div>

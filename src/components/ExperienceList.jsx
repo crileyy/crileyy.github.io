@@ -32,18 +32,20 @@ const title3 = 'Enterprise Engineer Intern';
 const company3 = 'Facebook';
 const location3 = 'Menlo Park, California';
 const timePeriod3 = 'September 2019 - December 2019';
-const bullets3 = [];
+const bullets3 = ['Created a web app for Facebook data centers to request and review maintenance projects, using PHP and React',
+  'Saved thousands of dollars by automating the maintenance process for hundreds of Facebook data centers'];
 
 const title4 = 'Software Engineer Co-op';
 const company4 = 'ASICS';
 const location4 = 'Boston, Massachusetts';
 const timePeriod4 = 'May 2019 - September 2019';
-const bullets4 = [];
+const bullets4 = ['Created the software infrastructure to run a web app for ASICS sponsored athletes to create public events using Docker, Terraform, and AWS, saving the entire product',
+'Created a strategy to migrate email service provider from SendGrid to the Salesforce REST APIs for the OneASICS membership service'];
 
 const title5 = 'Teaching Assistant for Object Oriented Design and Logic & Computation';
 const company5 = 'Northeastern University';
 const location5 = 'Boston, Massachusetts';
-const timePeriod5 = 'May 2017 - December 2018';
+const timePeriod5 = 'May 2017 - July 2020';
 const bullets5 = [
   'Instructed and lead 20 person labs that met twice a week for 2 hours',
   'Held office hours 2 times a week for 2 hours to answer student questions and provide assistance',

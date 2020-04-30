@@ -10,3 +10,7 @@
 .desc {
     font-size: calc(10px + 1.25vmin);
 }
+
+.link {
+    margin-bottom: 1em;
+}
