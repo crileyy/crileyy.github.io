@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Development
+
+1. Make changes to react app in master branch
+2. Run `npm run deploy` to generate a new build
+3. Copy files from the `/build` folder into base folder `/`
+4. Push to master to start new github pages deployment
+
 ## Available Scripts
 
 In the project directory, you can run:
